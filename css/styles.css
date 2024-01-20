@@ -124,7 +124,7 @@ background: #2E2F42;
 background-color: #404BBF;
  }
 
- .button:active {
+ .button:focus {
 background-color: #404BBF;
 }
        /*------section two----*/
