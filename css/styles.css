@@ -54,7 +54,7 @@
 }
 
 .header-menu-link {
-    color:#404bbf;
+    color:#434455;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -62,10 +62,12 @@
     letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover,
+.header-menu-link:hover{
+    color: #404BBF;
+}
 .header-menu-link:focus,
 .header-menu-link:active {
-    color:#404bbf;
+    color:#404BBF;
 }
 
                /*-----adrress-------*/
@@ -73,13 +75,9 @@
 .address {
     font-style: normal;
 }
-
-
 .address-contact {
-
+  color: #404BBF
 }
-
-
 .address-contact-link {
     color: #434455;
     font-size: 16px;
@@ -91,10 +89,10 @@
 .address-contact-link :hover,
 .address-contact-link :focus,
 .address-contact-link :active{
-    color: #404bbf;
+    color: #404BBF;
 }
      /*-----section one*/
-.section-element{
+.section{
 background: #2E2F42;
 }
 
@@ -120,14 +118,14 @@ background: #2E2F42;
      }
 
  .button:active{
-  background-color: #404BBF
+  background-color:#404BBF
  }
  .button :hover{
-background-color: #404BBF
+background-color: #4D5AE5
  }
 
  .button :focus{
-background-color: #404BBF
+background-color: #4D5AE5
 }
        /*------section two----*/
 .list {
@@ -211,7 +209,7 @@ background-color: #FFFFFF;
 
      /*------section four-----*/
 .section-portfolio {
-
+background-color: #F4F4FD
 }
 
 .portfolio-title {
