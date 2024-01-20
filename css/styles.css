@@ -54,7 +54,7 @@
 }
 
 .header-menu-link {
-    color:#434455;
+    color: #2e2f42;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -63,11 +63,11 @@
 }
 
 .header-menu-link:hover{
-    color: #404BBF;
+    color:#404bbf;
 }
 .header-menu-link:focus,
 .header-menu-link:active {
-    color:#404BBF;
+    color:#404bbf;
 }
 
                /*-----adrress-------*/
@@ -124,7 +124,7 @@ background: #2E2F42;
 background-color: #4D5AE5
  }
 
- .button :focus{
+ .button :active{
 background-color: #4D5AE5
 }
        /*------section two----*/
