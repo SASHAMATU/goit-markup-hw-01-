@@ -62,13 +62,11 @@
     letter-spacing: 0.02em;
 }
 
-.header-menu-link :hover{
-    color: #404bbf
+.header-link:hover,
+.header-link:focus {
+    color: #404BBF;
 }
 
-.header-menu-link :focus {
-     color: #404bbf
-}
                /*------------*/
 
 .address {
@@ -96,7 +94,7 @@
 
 
 .section {
-background:#2E2F42;
+background: #2E2F42;
 }
 
 
@@ -120,6 +118,9 @@ background:#2E2F42;
         cursor: pointer;
      }
 
+ .button:active{
+  background-color: #404bbf; 
+ }
  .button :hover{
     background-color: #404bbf;
  }
@@ -129,11 +130,10 @@ background:#2E2F42;
 }
 
 .list {
-
+background: #FFF
 }
 
 .list-item {
-
 }
 
 
@@ -144,7 +144,6 @@ background:#2E2F42;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-
 
 
 .list-item-text {
