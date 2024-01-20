@@ -63,11 +63,12 @@
 }
 
 .header-link:hover,
-.header-link:focus {
+.header-link:focus,
+.header-link:active {
     color:#404bbf;
 }
 
-               /*------------*/
+               /*-----adrress-------*/
 
 .address {
     font-style: normal;
@@ -89,12 +90,10 @@
 
 .address-contact-link :hover,
 .address-contact-link :focus,
-.address-contact-link :active
-{
+.address-contact-link :active{
     color: #404bbf;
 }
-
-
+     /*-----section one*/
 .section {
 background: #2E2F42;
 }
@@ -130,7 +129,7 @@ background-color: #404BBF
  .button :focus{
         background-color: #404BBF
 }
-
+       /*------section two----*/
 .list {
 background: #FFF
 }
@@ -155,12 +154,11 @@ background: #FFF
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+           /*-----section three---------*/
+    
 .section-team {
         background-color: #FFFFFF
 }
-
-
 
 .team-title {
         color:#2E2F42;
@@ -211,9 +209,10 @@ background-color: #FFFFFF;
         letter-spacing: 0.02em;
 }
 
+     /*------section four-----*/
+.section-portfolio {
 
-.section-portfolio {}
-
+}
 
 .portfolio-title {
     color: #2E2F42;
@@ -257,7 +256,7 @@ background-color: #FFFFFF;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+       /*-----section footer----*/
 
 .footer {
  background-color: #2e2f42;
