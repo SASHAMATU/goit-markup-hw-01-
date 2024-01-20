@@ -117,14 +117,14 @@ background: #2E2F42;
         cursor: pointer;
      }
 
- .button:active{
+ .button:active {
   background-color: #404BBF;
  }
- .button:hover{
+ .button:hover {
 background-color: #404BBF;
  }
 
- .button:active{
+ .button:active {
 background-color: #404BBF;
 }
        /*------section two----*/
