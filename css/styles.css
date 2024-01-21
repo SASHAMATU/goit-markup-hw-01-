@@ -13,6 +13,9 @@
 .navigation {
     
 }
+.header-list{
+    list-style: none;
+}
 
 
 .header-logo-web {
@@ -22,6 +25,7 @@
      font-weight: 700;
      line-height: 1.17;
     text-transform: uppercase;
+    text-decoration: none;
     letter-spacing: 0.03em;
 }
 .header-logo-studio {
@@ -42,6 +46,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
+    text-decoration: none;
     letter-spacing: 0.03em;
 }
 .header-menu {
@@ -59,6 +64,7 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
+    text-decoration: none;
     letter-spacing: 0.02em;
 }
 
@@ -75,6 +81,9 @@
 .address {
     font-style: normal;
 }
+.address-list{
+    list-style: none;
+}
 .address-contact {
   color: #404BBF;
 }
@@ -83,6 +92,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    text-decoration: none;
     letter-spacing: 0.02em;
 }
 
@@ -131,6 +141,9 @@ background-color: #404BBF;
 .list {
 background: #FFF;
 }
+.element-list{
+    list-style: none;
+}
 
 .list-item {
 }
@@ -158,6 +171,9 @@ background: #FFF;
     background-color: #F4F4FD;
 }
 
+.list-team {
+    list-style: none;
+}
 .team-title {
         color: #2E2F42;
         text-align: center;
@@ -223,7 +239,9 @@ background-color: #F4F4FD;
 
 
 
-.portfolio-list {}
+.portfolio-list {
+    list-style: none;
+}
 
 
 .portfolio-list-item {}
@@ -267,6 +285,7 @@ background-color: #F4F4FD;
     font-weight: 700;
     line-height: 1.17;
     text-transform: uppercase;
+    text-decoration: none;
     letter-spacing: 0.03em;
 }
 
