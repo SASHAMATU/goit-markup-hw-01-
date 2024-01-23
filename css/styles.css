@@ -56,6 +56,7 @@
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    list-style: none;
 }
 
 .header-menu-link {
@@ -139,7 +140,7 @@ background-color: #404BBF;
 }
        /*------section two----*/
 .list {
-background: #FFF;
+list-style: none;
 }
 .element-list{
     list-style: none;
@@ -169,6 +170,9 @@ background: #FFF;
     
 .section-team {
     background-color: #F4F4FD;
+}
+.team-list{
+    list-style: none;
 }
 
 .list-team {
@@ -235,8 +239,8 @@ background-color: #F4F4FD;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        text-align: center;
 }
-
 
 
 .portfolio-list {
